@@ -1,0 +1,7 @@
+C:\Users\KjuEf\Desktop\c#\myArray\myArray\obj\Debug\myArray.csprojAssemblyReference.cache
+C:\Users\KjuEf\Desktop\c#\myArray\myArray\obj\Debug\myArray.csproj.CoreCompileInputs.cache
+C:\Users\KjuEf\Desktop\c#\myArray\myArray\bin\Debug\myArray.exe.config
+C:\Users\KjuEf\Desktop\c#\myArray\myArray\bin\Debug\myArray.exe
+C:\Users\KjuEf\Desktop\c#\myArray\myArray\bin\Debug\myArray.pdb
+C:\Users\KjuEf\Desktop\c#\myArray\myArray\obj\Debug\myArray.exe
+C:\Users\KjuEf\Desktop\c#\myArray\myArray\obj\Debug\myArray.pdb
